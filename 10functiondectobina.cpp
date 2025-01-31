@@ -33,6 +33,8 @@ int dectobin2(int n){
 }
 
 
+
+
 int main(){
     int num;
     cin>>num;
